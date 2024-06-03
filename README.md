@@ -1,7 +1,7 @@
 # GraphX-Net
 GraphX-Net provides a powerful tool for clinicians and researchers in the field of breast cancer by combining GNNs with Shapley values. It offers accurate predic- tions of relapse risk while also providing interpretable insights into the underlying factors driving those pre- dictions.
 
-  ![GNN_model_architecture](https://github.com/abdullahbasaad/GraphX-Net/assets/65473122/7777f429-e3a5-47b6-8fae-4f02578d9e7a)
+replace ![GNN_model_architecture](https://github.com/abdullahbasaad/GraphX-Net/assets/65473122/7777f429-e3a5-47b6-8fae-4f02578d9e7a.type) with <img src="[https://your-image-url.type](https://github.com/abdullahbasaad/GraphX-Net/assets/65473122/7777f429-e3a5-47b6-8fae-4f02578d9e7a.type)" width="10" height="70">
 
 
 > [!NOTE]
