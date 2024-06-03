@@ -20,3 +20,6 @@ node embeddings. The model uniquely calculates node feature contributions using 
 nodes’ thresholds, and considers the total node neighboring effects. These innovations enable GraphX-Net
 to achieve state-of-the-art performance in predicting breast cancer recurrence, highlighting its potential as a
 powerful tool for improving patient outcomes.
+
+
+@Basaad :+1: This Colab file looks great - it's ready to use! :shipit:
