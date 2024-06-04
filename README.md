@@ -29,7 +29,7 @@ powerful tool for improving patient outcomes.
 It's crucial to demonstrate how you can utilize the presented approach to construct your dataset graph.
 The approach designed to deal with:
 1. Supervised learning approach.
-2. Structured or unstructured datasets.
+2. Structured and unstructured datasets.
 3. Numeric or textual datasets (coming in the new update).
 
 
@@ -38,21 +38,6 @@ Please use the following BibTeX to cite this project in your work:
 
 
 #### GraphX-Net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
