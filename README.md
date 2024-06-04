@@ -21,5 +21,39 @@ nodes’ thresholds, and considers the total node neighboring effects. These inn
 to achieve state-of-the-art performance in predicting breast cancer recurrence, highlighting its potential as a
 powerful tool for improving patient outcomes.
 
+> [!IMPORTANT]
+> In the Colab file, there are some snippet codes utilizing different Graph Nural approaches such as:
+>  * Deep Graph Library (DGL).
+>  * Graph attention network (GATs) node classification.
+
+It's crucial to demonstrate how you can utilize the presented approach to construct your dataset graph.
+The approach designed to deal with:
+1. Supervised learning approach.
+2. Structured or unstructured datasets.
+3. Numeric or textual datasets (coming in the new update).
+
+
+## Citation
+Please use the following BibTeX to cite this project in your work:
+
+
+#### GraphX-Net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @Basaad :+1: This Colab file looks great - it's ready to use! :shipit:
