@@ -22,7 +22,7 @@ to achieve state-of-the-art performance in predicting breast cancer recurrence, 
 powerful tool for improving patient outcomes.
 
 > [!IMPORTANT]
-> In the Colab file, there are some snippet codes utilizing different Graph Nural approaches such as:
+> The Colab file includes several code snippets that use different Graph Neural Network (GNN) approaches, such as:
 >  * Deep Graph Library (DGL).
 >  * Graph attention network (GATs) node classification.
 
